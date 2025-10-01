@@ -1,0 +1,46 @@
+===============================================================
+      HOMO COSMIC IV SERUM FORMULA — Male EDS Protocol v1.0
+                Designed By LeOrbis — [Date]
+===============================================================
+
+| Nutrient/Compound  | Form/Route         | Start Dose  | Target Dose | Toxic Max        | Frequency | Countermeasure           | Monitor/Notes            |
+|--------------------|--------------------|-------------|-------------|------------------|-----------|--------------------------|--------------------------|
+| Methylcobalamin (B12)  | IV or IM      | 1000 mcg    | 2000 mcg    | >5000 mcg/wk     | 1x/wk     | Stop, check folate       | CBC, neuro, sx, diet     |
+| P5P (B6)               | IV or IM      | 25 mg       | 50 mg       | >100 mg/wk       | 1x/wk     | Stop, neuro              | Nerve, sx, logs          |
+| Cholecalciferol (D3)   | IM           | 10,000 IU   | 20,000 IU   | >50,000 IU/wk    | 1x/wk     | Fluid, hold D/Ca         | D, Ca labs, sun exposure |
+| Magnesium sulfate      | IV           | 500 mg      | 1000 mg     | >2000 mg/wk      | 1x/wk     | IV Ca, stop Mg           | BP, sx, Mg labs          |
+| Potassium chloride     | IV           | 20 mmol     | 40 mmol     | >120 mmol/wk     | 1x/wk     | IV Ca, fluids/EKG        | K, EKG, diet             |
+| Zinc sulfate           | IV           | 9.7 mg      | 19.4 mg     | >40 mg/d oral est.| 1x/wk    | Stop, add copper         | Zn/Cu labs, taste, diet  |
+| Ascorbic acid (C)      | IV           | 1000 mg     | 5000 mg     | >10,000 mg/wk    | 1x/wk     | Stop, hydrate, kidney    | C, sx, diet fruits/nuts  |
+| Iron sucrose           | IV           | 100 mg      | 200 mg/mo   | >200 mg/wk       | 1x/mo     | Deferoxamine             | Iron, ferritin, diet     |
+| Copper chloride        | IV           | 1.94 mg     | 1.94 mg     | >10 mg/wk        | 1x/wk     | Chelation, hold Cu       | Cu, Zn, sx, diet/nuts    |
+| L-methylfolate         | IV or IM     | 2 mg        | 5 mg        | >10 mg/wk        | 1x/wk     | B12, hold folate         | CBC, mood, MTHFR         |
+| Calcium gluconate      | IV           | 500 mg      | 1000 mg     | >2000 mg/wk      | 1x/wk     | Fluids, hold Ca/D        | Ca, EKG, bone pain       |
+| Testosterone cypionate | IM           | 50 mg       | 100 mg      | 150 mg/wk        | 1x/wk     | Taper, labs              | T, E2, Hct, mood, sx     |
+| Orthosilicic acid      | IV or oral   | 10 mg       | 20 mg       | >30 mg/wk est.   | 1x/wk     | Hold, cut silica         | Bones, skin, dental logs |
+| L-proline              | IV or oral   | 1 g         | 5 g         | >10 g/wk est.    | 1x/wk     | Stop, hydrate            | GI, skin elasticity      |
+| Glycine                | IV or oral   | 1 g         | 5 g         | >10 g/wk est.    | 1x/wk     | Stop, hydrate            | Sleep, mood, cramping    |
+| Hyaluronic acid        | IV or oral   | 50 mg       | 200 mg      | Not set/est.     | 1x/wk     | Hold, allergy            | Joint/skin/blood logs    |
+
+---------------------------------------------------------------
+(*“Toxic Max” is an estimate; most references are oral unless noted. Dosing/transition should be individualized, titrate by labs/symptoms.)
+---------------------------------------------------------------
+
+**Cycle Plan:**
+- **Loading/Repletion Phase:** Start at “Start Dose,” increase to “Target Dose” over 1–2 months.
+- **Therapeutic Phase:** Maintain “Target Dose” for 4–6 months.
+- **Taper Phase:** Reduce dose gradually to maintenance (based on labs/symptoms/improvements).
+- **Monitor for accumulation from diet or other sources—adjust as needed, especially for zinc, copper, iron, D, magnesium, and calcium.**
+
+**Diet Coordination Plan:**
+- High protein, high fat (meats, nuts, fruits); low green leafy veg for histamine/copper/zinc control.
+- Serum as base layer, diet as flexible support—track both routinely.
+
+**Monitoring:**
+- Weekly symptom tracking (energy, pain, muscle/joint, mood, GI, sleep, skin, bruising)
+- Monthly labs: CBC, iron/ferritin, B12, D3, Ca, Mg, K, Zn/Cu, testosterone, estradiol, Hct.
+
+**Countermeasures:**  
+As per serum protocol table and clinical best practices
+
+===============================================================

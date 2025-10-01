@@ -1,0 +1,38 @@
+===============================================================================
+HOMO COSMIC SERUM — MAJOR SIDE EFFECTS & MONITORING TABLE
+(Designed by LeOrbis)
+===============================================================================
+
+| Compound/Nutrient     | Potential Major Side Effects            | Early Signs/Warnings to Track           | What To Do If Suspected              |
+|-----------------------|-----------------------------------------|-----------------------------------------|--------------------------------------|
+| Methylcobalamin (B12) | Rare allergy/rash, acne, diarrhea       | Itching, red skin, GI upset             | Stop; monitor; treat allergy per MD  |
+| P5P (B6)              | Neuropathy (very high dose/chronic)     | Tingling/numbness, loss of control      | Reduce/stop B6; monitor resolution   |
+| Cholecalciferol (D3)  | Hypercalcemia, kidney stones            | Thirst, confusion, bone pain, GI upset  | Stop D/Ca; labs; fluids, see MD      |
+| Magnesium sulfate     | Flushing, very low BP, lethargy, arrhythmia | Dizziness, fainting, muscle weakness  | Slow rate; give IV calcium; ER if severe |
+| Potassium chloride    | Hyperkalemia (dangerous arrhythmia)     | Irregular/fast pulse, muscle cramps     | IV Ca gluconate, ER, EKG, treat K+   |
+| Zinc sulfate          | GI upset, suppressed immunity, low copper| Nausea, cramps, immune weak, anemia     | Lower Zn; add copper; labs           |
+| Ascorbic acid (Vit C) | Diarrhea, kidney stones (chronic high)  | GI upset, flank pain                    | Hydrate, reduce dose, kidney check   |
+| Iron sucrose          | Allergic reaction, overload, GI/vomiting| Low BP, dark stools, new fatigue        | Hold iron; chelation for overload    |
+| Copper chloride       | GI upset, rare liver/kidney issues      | Abd pain, nausea, yellow skin/eyes      | Stop copper; liver/kidney labs       |
+| L-methylfolate        | Masks B12 deficiency, rare overenergized/excitable feeling | Mood changes, restless sleep  | Check B12, reduce dose, labs         |
+| Calcium gluconate     | Constipation, arrhythmia (overload)     | GI upset, confusion, EKG changes        | Hold Ca/D, hydrate, see MD           |
+| Testosterone cypionate| Mood swings, acne, high Hct, fluid retention | Mood/anger, skin, BP, headache    | Labs, dose taper, provider review    |
+| Orthosilicic acid     | Rare GI upset                           | Nausea, loose stool                     | Lower dose                           |
+| L-proline             | Rare sedation, GI upset (very high dose)| Drowsiness                              | Lower dose, time dosing              |
+| Glycine               | Sedation, GI upset (high dose)          | Drowsy, nausea                          | Lower dose                           |
+| Hyaluronic acid       | Allergy (rare), mild swelling           | Skin/joint puffiness, rash              | Reduce/stop, provider check if severe|
+
+-------------------------------------------------------------------------------
+**General Safety Tips:**
+- Always start doses low, building up while monitoring symptoms/labs.
+- Track new symptoms, side effects, or mood/energy changes DAILY in week 1, and at every dose change.
+- Signs of allergic reaction (rash, swelling, trouble breathing), arrhythmia, confusion, or severe pain = GO TO ER / Seek emergency help immediately.
+- Labs: CBC, electrolytes, ferritin, vitamins/minerals, liver/kidney, hormones.
+- If unsure, consult your doctor and bring this protocol/data to every appointment.
+
+**Note- Grapefuit can cause these to worsen as it causes nutrients to absorb slower**
+-------------------------------------------------------------------------------
+**Disclaimer:**  
+For educational and advocacy purposes only—not for unsupervised use. See README for full consent and contact protocol.
+
+===============================================================================

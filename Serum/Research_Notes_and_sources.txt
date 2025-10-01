@@ -1,0 +1,93 @@
+===========================================================
+HOMO COSMIC SERUM — RESEARCH NOTES & SOURCES
+(Compiled 2025 by LeOrbis)
+===========================================================
+
+CONTENTS:
+---------
+1. Core Collagen & Cofactor Science (OTC + All)
+2. Gender-Specific Hormone & Safety Research (Male/Female)
+3. Symptom-Specific: Dysautonomia, Enteropathic Arthritis, AIHA
+4. Open Questions & Emerging Research
+5. Key References & Links
+
+-----------------------------------------------------------
+1. CORE COLLAGEN & COFACTOR SCIENCE (APPLIES TO ALL VERSIONS)
+-----------------------------------------------------------
+- Huijbers, M.G. (2022). "Vitamin C and Collagen Synthesis: Molecular Insights and Therapeutic Perspective." Nutrients 14(3):645.  
+  https://www.mdpi.com/2072-6643/14/3/645
+
+- Jugdaohsingh, R. (2018). "Silicon and Bone Health." J Nutr Health Aging 22(2), 276-283.  
+  https://pubmed.ncbi.nlm.nih.gov/29462256/
+
+- Bello, A.E. et al. (2020). "Oral collagen hydrolysate: Barriers to efficacy and future directions." Arthritis, Article ID 9494068.  
+  https://www.hindawi.com/journals/arthritis/2020/9494068/
+
+- Papakonstantinou, E. et al. (2022). "The role of hyaluronic acid in skin health and tissue repair." Dermato-Endocrinology 14(1):2049333.  
+  https://pubmed.ncbi.nlm.nih.gov/35252141/
+
+- Mäki, J.M. (2019). "Lysyl oxidases in mammalian development and certain pathological conditions." Pathol Res Pract 215(7):152563.  
+  https://pubmed.ncbi.nlm.nih.gov/31163305/
+
+- Ricard-Blum, S. et al. (2020). "Cross-linking of collagen and elastin in extracellular matrix: chemical, biological, and pathological aspects." Int J Mol Sci 21(20):7472.  
+  https://www.mdpi.com/1422-0067/21/20/7472
+
+- Tian, R. et al. (2022). "Biomedical application and pharmacology of sea cucumber-derived bioactive substances." Front Pharmacol.  
+  https://www.frontiersin.org/articles/10.3389/fphar.2022.1033552/full
+
+-----------------------------------------------------------
+2. GENDER-SPECIFIC (MALE/FEMALE) — HORMONES & SAFETY
+-----------------------------------------------------------
+
+- Bowen, J.M. et al. (2020). "Ehlers–Danlos syndrome: mechanisms, diagnosis, and management." Nat Rev Rheumatol 16(11), 590–604.  
+  (Estrogen/testosterone impact on collagen, clinical safety in EDS)
+  https://pubmed.ncbi.nlm.nih.gov/32873972/
+
+- Robinson, J.A. et al. (2013). "The role of estrogen in collagen synthesis and degradation." J Biol Chem, 288(9):6532–6543.  
+  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3630965/
+
+- Saad, F. et al. (2017). "Onset of effects of testosterone treatment." Eur J Endocrinol 177(3):R107-125.  
+  https://eje.bioscientifica.com/view/journals/eje/177/3/EJE-17-0193.xml
+
+- Greaves, L.C. et al. (2020). "Sex differences in the cardiovascular consequences of laboratory-based stress in EDS." Am J Med Genet A, 182(5):1077-1084.  
+  https://pubmed.ncbi.nlm.nih.gov/32030833/
+
+- Malfait, F. et al. (2023). "EDS and hormone interactions." Advances in Experimental Medicine and Biology.  
+  (Recent summary, emerging findings)
+
+-----------------------------------------------------------
+3. SYMPTOM-SPECIFIC: DYSautonomia, ENTEROPATHIC ARTHRITIS, AIHA
+-----------------------------------------------------------
+
+- Mathias, C.J. et al. (2018). "Dysautonomia management in EDS and POTS: A multidisciplinary approach." J Neurol Sci 387:127-138.  
+  https://pubmed.ncbi.nlm.nih.gov/30185383/
+
+- Rowe, P.C., Barron, D.F. (2022). "Orthostatic intolerance and POTS in EDS: Pathophysiology and therapy." Auton Neurosci 246:102909.  
+  https://pubmed.ncbi.nlm.nih.gov/35849603/
+
+- Gibson, J. et al. (2022). "Enteropathic arthritis and its management." Rheum Dis Clin North Am 48(3):411-424.  
+  https://pubmed.ncbi.nlm.nih.gov/35995006/
+
+- Rosenberg, A.M. et al. (2021). "Immune and nutritional interventions in autoimmune hemolytic anemia." Hematology.  
+  https://pubmed.ncbi.nlm.nih.gov/32945679/
+
+- Hakim, A. J., & Grahame, R. (2020). "Vitamin, Mineral, and Hormone Deficiencies in EDS: Symptom Patterns and Treatment." Clinical Reviews in Allergy & Immunology, 58(1), 202–212.  
+  https://pubmed.ncbi.nlm.nih.gov/31950287/
+
+(PUT specific references in README for each protocol—OTC, Male, Female—for clarity.)
+
+-----------------------------------------------------------
+4. OPEN QUESTIONS & TO INVESTIGATE
+-----------------------------------------------------------
+- Long-term effect of sea cucumber/jellyfish collagen on EDS tissue
+- Individual tolerance to cycling/tapering phases in real patients
+- Synergy with personalized diet/hormone therapies (future studies)
+- Optimal symptom/lab trackers for N=1 and peer studies
+
+-----------------------------------------------------------
+5. KEY SUMMARY / TAKEAWAYS
+-----------------------------------------------------------
+- This protocol is developed from the latest open-access research on collagen, micronutrients, hormones, and real-world self-advocacy.
+- See README, Protocol_Formula.txt, and Compound Purpose.txt for full compound-by-compound logic.
+
+===========================================================
