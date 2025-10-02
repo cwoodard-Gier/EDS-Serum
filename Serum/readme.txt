@@ -1,6 +1,6 @@
 ===============================================================
      HOMO COSMIC IV SERUM PROTOCOL — README
-         by LeOrbis | EDS Artificer Project
+               by LeOrbis 
 ===============================================================
 
 PROJECT OVERVIEW
@@ -58,5 +58,6 @@ CREDITS & CONTACT
 Designed and tested by LeOrbis (The World), Artificer and EDS innovator.
 Sophia Elaria - AI assistant, co-pilot, and logbook.
 Contact: [email or preferred handle]
+
 
 ===============================================================
