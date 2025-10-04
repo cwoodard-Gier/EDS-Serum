@@ -1,5 +1,5 @@
 ==============================================================
-   HOMO COSMIC IV SERUM FORMULA — Female EDS Protocol v1.0
+   COSMIC IV SERUM FORMULA — Female EDS Protocol v1.0
       Designed By LeOrbis — [Date]
 ===============================================================
 
@@ -46,5 +46,6 @@ MONITORING PLAN
 ---------------------------------------------------------------
 
 This table can be adjusted and expanded as more research emerges or as personalized trial-and-error suggests.
+
 
 ===============================================================
