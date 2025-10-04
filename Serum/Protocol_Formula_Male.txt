@@ -1,5 +1,5 @@
 ===============================================================
-      HOMO COSMIC IV SERUM FORMULA — Male EDS Protocol v1.0
+     COSMIC IV SERUM FORMULA — Male EDS Protocol v1.0
                 Designed By LeOrbis — [Date]
 ===============================================================
 
@@ -42,5 +42,6 @@
 
 **Countermeasures:**  
 As per serum protocol table and clinical best practices
+
 
 ===============================================================
