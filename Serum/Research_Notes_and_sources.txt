@@ -1,5 +1,5 @@
 ===========================================================
-HOMO COSMIC SERUM — RESEARCH NOTES & SOURCES
+COSMIC SERUM — RESEARCH NOTES & SOURCES
 (Compiled 2025 by LeOrbis)
 ===========================================================
 
@@ -89,5 +89,6 @@ CONTENTS:
 -----------------------------------------------------------
 - This protocol is developed from the latest open-access research on collagen, micronutrients, hormones, and real-world self-advocacy.
 - See README, Protocol_Formula.txt, and Compound Purpose.txt for full compound-by-compound logic.
+
 
 ===========================================================
